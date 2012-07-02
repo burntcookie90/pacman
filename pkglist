@@ -42,6 +42,7 @@ eclipse-cdt
 elinks
 emerald
 emerald-themes
+erlang
 evince
 exo
 fakeroot
@@ -74,7 +75,6 @@ gtk-engine-murrine
 gvfs-smb
 gzip
 heirloom-mailx
-hpoj
 htop
 iftop
 imagemagick
